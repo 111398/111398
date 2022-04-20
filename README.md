@@ -1,1 +1,32 @@
-# Sergei
+# **Зравствуйте** :hand:! 
+```javascript
+const obj = {
+  name: 'Sergei', 
+  surname: 'Smirnov',
+  age: 25,
+  speciality: 'JS Developer',
+  food: :watermelon:
+  }
+```
+
+## Меня зовут Сергей, и я JS Developer.
+___
+
+## **Мой технологический стэк**:
+
++ :white_check_mark: HTML/CSS
++ :white_check_mark: JavaScript
++ :white_check_mark: NodeJS
++ :white_check_mark: Express
++ :white_check_mark: Sequelize
++ :white_check_mark: React & Redux
+___
+
+Cвязаться со мной:
+
++ [Телеграм](https://t.me/Flyinthespace)
++ Почта smirnovsd19@mail.ru
++ Телефон +79636606676
+
+___
+![matrix](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fru%2Fgifs%2F%25D0%25BC%25D0%25B0%25D1%2582%25D1%2580%25D0%25B8%25D1%2586%25D0%25B0&psig=AOvVaw1Sseo_roV33t_QWlBFH791&ust=1650526614575000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOCWwvaQovcCFQAAAAAdAAAAABAN)
