@@ -27,5 +27,3 @@ Cвязаться со мной:
 + [Телеграм](https://t.me/Flyinthespace)
 + Почта smirnovsd19@mail.ru
 + Телефон +79636606676
-
-___
