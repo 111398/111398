@@ -1,4 +1,4 @@
-# **Зравствуйте** :hand:! 
+# **Зравствуйте**! :hand: 
 Меня зовут Сергей, и я JS Developer.
 ```javascript
 const obj = {
