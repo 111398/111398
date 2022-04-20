@@ -1,4 +1,5 @@
 # **Зравствуйте** :hand:! 
+## Меня зовут Сергей, и я JS Developer.
 ```javascript
 const obj = {
   name: 'Sergei', 
@@ -9,7 +10,7 @@ const obj = {
   }
 ```
 
-## Меня зовут Сергей, и я JS Developer.
+
 
 ## **Мой технологический стэк**:
 
