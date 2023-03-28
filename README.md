@@ -14,12 +14,14 @@ const obj = {
 
 ## **Мой технологический стэк**:
 
-+ :white_check_mark: HTML/CSS
++ :white_check_mark: HTML5/CSS3
 + :white_check_mark: JavaScript
 + :white_check_mark: NodeJS
 + :white_check_mark: Express
 + :white_check_mark: Sequelize
 + :white_check_mark: React & Redux
++ :white_check_mark: NextJs
++ :white_check_mark: Context
 ___
 
 Cвязаться со мной:
