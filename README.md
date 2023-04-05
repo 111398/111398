@@ -9,7 +9,7 @@ const obj = {
   food: :watermelon:
   }
 ```
-
+![](https://komarev.com/ghpvc/?username=your-github-username)
 
 
 ## **Мой технологический стэк**:
