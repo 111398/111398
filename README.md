@@ -36,6 +36,6 @@ ___
 
 ## **Contact me**:
 
-+ 	![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/Flyinthespace)
++ 	![Telegram]((https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/Flyinthespace))
 + Почта smirnovsd19@mail.ru
 + (https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) +79636606676
