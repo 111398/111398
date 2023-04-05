@@ -28,8 +28,13 @@ const obj = {
 + ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 + ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ___
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-Cвязаться со мной:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=111398)](https://github.com/111398/github-readme-stats)
+
+
+## **Contact me**:
 
 + 	![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/Flyinthespace)
 + Почта smirnovsd19@mail.ru
