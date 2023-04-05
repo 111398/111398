@@ -1,4 +1,4 @@
-# **Hello there**! [<img src="https://camo.githubusercontent.com/e8e7b06ecf583bc…a434c467a6361737252346961377a2f67697068792e676966" alt="hand" />]
+# **Hello there**! ![til](https://camo.githubusercontent.com/e8e7b06ecf583bc…a434c467a6361737252346961377a2f67697068792e676966)
 Nice to meet u on my page =)
 
 ```javascript
