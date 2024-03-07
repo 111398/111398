@@ -7,7 +7,7 @@ Nice to meet u on my page =)
 const obj = {
   name: 'Sergei', 
   surname: 'Smirnov',
-  age: 25,
+  age: 26,
   speciality: 'Frontend Developer',
   food: 🍉,
   }
